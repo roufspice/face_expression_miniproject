@@ -13,6 +13,12 @@ Using CNN model Structure
 
 
 
++ DataSet
+1) fer2013.csv : https://www.kaggle.com/nicolejyt/facialexpressionrecognition
+2) googleCrawling dataSet(sample:1264 images) : 
+
+
+
 # face_expression_examples:
 ---------------------------
 <div>
