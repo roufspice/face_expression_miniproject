@@ -14,6 +14,22 @@ Using CNN model Structure
 
 
 # face_expression_examples:
+---------------------------
+<div>
+<img src="https://github.com/roufspice/face_expression_miniproject/blob/master/images/angry_01.jpg" width="50%"></img>
+<img src="https://github.com/roufspice/face_expression_miniproject/blob/master/images/neurtral_01.jpg" width="50%"></img>
+</div>
+<p>facial_expression_demo_Test</p>
+<div>
+<img src="https://github.com/roufspice/face_expression_miniproject/blob/master/images/openCV_demo.gif"></img>
+</div>
+
+
+### Run real-time emotion demo(실시간 시연 영상 코드):
+
+
+### To train models for facial expression classification:
+
 
 
 
