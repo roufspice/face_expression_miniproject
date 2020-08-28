@@ -8,6 +8,7 @@ Face emotional expression classification using fer2013 datasets and images which
 
 
 Referenced models are here: https://github.com/oarriaga/face_classification/blob/master/src/models/cnn.py
+Referenced Publication is here: https://github.com/oarriaga/face_classification/blob/master/report.pdf
 Using CNN model Structure
 1) big_XCEPTION from referenced models(above github link)
 
