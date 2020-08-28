@@ -36,7 +36,7 @@ Using CNN model Structure
 
 
 ### To train models for facial expression classification: 
-<a href="https://github.com/roufspice/face_expression_miniproject/tree/master/src/modelsHERE"><h4>HERE</h4></a>
+<a href="https://github.com/roufspice/face_expression_miniproject/tree/master/src/models"><h4>HERE</h4></a>
 
 
 
