@@ -5,9 +5,9 @@ from tensorflow.keras.models import load_model
 import time
 
 '''얼굴인식모델'''
-face_detection = cv2.CascadeClassifier('files/haarcascade_frontalface_default.xml')
+face_detection = cv2.CascadeClassifier('.../haarcascade_frontalface_default.xml')
 '''감정분류모델'''
-emotion_classifier = load_model('files/_littleVGG16_.14-0.68-1.5656.h5', compile=False)
+emotion_classifier = load_model('.../_littleVGG16_.14-0.68-1.5656.h5', compile=False)
 '''감정도출'''
 EMOTIONS = ["happy", "angry","sad","neutral"]
 
