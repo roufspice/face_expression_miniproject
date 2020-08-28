@@ -35,7 +35,9 @@ Using CNN model Structure
 ### Run real-time emotion demo(실시간 시연 영상 코드):
 
 
-### To train models for facial expression classification:
+### To train models for facial expression classification: 
+<a href="https://github.com/roufspice/face_expression_miniproject/tree/master/src/modelsHERE"><h4>HERE</h4></a>
+
 
 
 
