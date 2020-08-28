@@ -1,4 +1,4 @@
-# face_expression_miniproject
+# face_expression_detection_miniproject
 
 Face emotional expression classification using fer2013 datasets and images which is collected on Google images by crawling with a Tensorflow.Keras CNN models (XCEPTION and VGG16) and openCV
 
